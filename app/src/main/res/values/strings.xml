@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LockScreenAppActivity!</string>
+    <string name="app_name">LockScreenApp</string>
+    <string name="unloack">Unlock</string>
+    <string name="hello_world">Hello World</string>
+    <string name="edit_message">Edit Message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <color name="mycolor1">#F5DC49</color>
+
+
+</resources>
