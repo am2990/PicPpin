@@ -1,4 +1,4 @@
-package ra.iiitd.android_first_application;
+package com.dynamikpass.picpin;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
